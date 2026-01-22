@@ -63,3 +63,6 @@ ECHOES is a music recommendation system that combines graph-based collaborative 
    - View graph-based recommendations from similar users
    - Discover songs through decision tree analysis
    - See detailed information about recommended tracks
+  
+## In Progress of Rebuilding:
+Here's a peek at what we've got so far: https://www.figma.com/design/qRaNGTCwGNTKJnD4by57gP/ECHOS-UI?node-id=0-1&t=h6IAl0rB4PkbGwW9-1
